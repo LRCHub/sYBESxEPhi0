@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Sweet Escape",
+  "base_artist": "Alesso",
+  "createdAt": "2026-03-20T10:17:36.297169Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "The Sweet Escape",
+      "artist": "Gwen Stefani feat. Akon",
+      "has_synced": true,
+      "path": "select/01_The_Sweet_Escape_Gwen_Stefani_feat._Akon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "The Sweet Escape (feat. Akon)",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/02_The_Sweet_Escape_(feat._Akon)_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "The Sweet Escape",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/03_The_Sweet_Escape_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Sweet Escape",
+      "artist": "Kasabian",
+      "has_synced": false,
+      "path": "select/04_The_Sweet_Escape_Kasabian.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Sweet Escape (Gwen Stefani feat. Akon cover)",
+      "artist": "Kasabian",
+      "has_synced": false,
+      "path": "select/05_The_Sweet_Escape_(Gwen_Stefani_feat._Akon_cover)_Kasabian.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Sweet Escape",
+      "artist": "Zebrahead",
+      "has_synced": true,
+      "path": "select/06_The_Sweet_Escape_Zebrahead.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Sweet Escape",
+      "artist": "Gwen Stefani Akon",
+      "has_synced": true,
+      "path": "select/07_The_Sweet_Escape_Gwen_Stefani_Akon.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Sweet Escape",
+      "artist": "Gwen Stefani, Akon",
+      "has_synced": true,
+      "path": "select/08_The_Sweet_Escape_Gwen_Stefani,_Akon.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Sweet Escape",
+      "artist": "Gwen Stefani/Akon",
+      "has_synced": true,
+      "path": "select/09_The_Sweet_Escape_Gwen_Stefani_Akon.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sweet Escape",
+      "artist": "Alesso feat. Sirena",
+      "has_synced": true,
+      "path": "select/10_Sweet_Escape_Alesso_feat._Sirena.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sweet Escape",
+      "artist": "Alesso, Sirena",
+      "has_synced": true,
+      "path": "select/11_Sweet_Escape_Alesso,_Sirena.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Sweet Escape",
+      "artist": "Poets of the Fall",
+      "has_synced": true,
+      "path": "select/12_The_Sweet_Escape_Poets_of_the_Fall.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The Sweet Escape - Alexander Theatre Sessions",
+      "artist": "Poets of the Fall",
+      "has_synced": true,
+      "path": "select/13_The_Sweet_Escape_-_Alexander_Theatre_Sessions_Poets_of_the_Fall.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "The Sweet Escape (Long Edit)",
+      "artist": "Poets of the Fall",
+      "has_synced": true,
+      "path": "select/14_The_Sweet_Escape_(Long_Edit)_Poets_of_the_Fall.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "The Sweet Escape (Radio Edit)",
+      "artist": "Poets of the Fall",
+      "has_synced": true,
+      "path": "select/15_The_Sweet_Escape_(Radio_Edit)_Poets_of_the_Fall.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Sweet Escape - featuring Akon",
+      "artist": "Gwen Stefani",
+      "has_synced": true,
+      "path": "select/16_The_Sweet_Escape_-_featuring_Akon_Gwen_Stefani.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Escape",
+      "artist": "Alesso",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Escape_Alesso.txt"
+    }
+  ]
+}
